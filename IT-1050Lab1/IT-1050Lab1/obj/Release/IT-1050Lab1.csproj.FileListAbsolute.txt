@@ -1,0 +1,5 @@
+C:\Users\Brady\Desktop\IT-1050Lab1\IT-1050Lab1\bin\Release\IT-1050Lab1.exe.config
+C:\Users\Brady\Desktop\IT-1050Lab1\IT-1050Lab1\bin\Release\IT-1050Lab1.exe
+C:\Users\Brady\Desktop\IT-1050Lab1\IT-1050Lab1\bin\Release\IT-1050Lab1.pdb
+C:\Users\Brady\Desktop\IT-1050Lab1\IT-1050Lab1\obj\Release\IT-1050Lab1.exe
+C:\Users\Brady\Desktop\IT-1050Lab1\IT-1050Lab1\obj\Release\IT-1050Lab1.pdb
