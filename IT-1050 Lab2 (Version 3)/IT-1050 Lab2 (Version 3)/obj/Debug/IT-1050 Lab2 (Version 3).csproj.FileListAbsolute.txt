@@ -1,0 +1,6 @@
+C:\Users\Brady\Desktop\IT-1050 Lab2 (Version 3)\IT-1050 Lab2 (Version 3)\bin\Debug\IT-1050 Lab2 (Version 3).exe.config
+C:\Users\Brady\Desktop\IT-1050 Lab2 (Version 3)\IT-1050 Lab2 (Version 3)\bin\Debug\IT-1050 Lab2 (Version 3).exe
+C:\Users\Brady\Desktop\IT-1050 Lab2 (Version 3)\IT-1050 Lab2 (Version 3)\bin\Debug\IT-1050 Lab2 (Version 3).pdb
+C:\Users\Brady\Desktop\IT-1050 Lab2 (Version 3)\IT-1050 Lab2 (Version 3)\obj\Debug\IT-1050 Lab2 (Version 3).csprojResolveAssemblyReference.cache
+C:\Users\Brady\Desktop\IT-1050 Lab2 (Version 3)\IT-1050 Lab2 (Version 3)\obj\Debug\IT-1050 Lab2 (Version 3).exe
+C:\Users\Brady\Desktop\IT-1050 Lab2 (Version 3)\IT-1050 Lab2 (Version 3)\obj\Debug\IT-1050 Lab2 (Version 3).pdb
