@@ -1,0 +1,6 @@
+C:\Users\Brady\Desktop\IT-1050Final\IT-1050Final\bin\Debug\IT-1050Final.exe.config
+C:\Users\Brady\Desktop\IT-1050Final\IT-1050Final\obj\Debug\IT-1050Final.csprojResolveAssemblyReference.cache
+C:\Users\Brady\Desktop\IT-1050Final\IT-1050Final\bin\Debug\IT-1050Final.exe
+C:\Users\Brady\Desktop\IT-1050Final\IT-1050Final\bin\Debug\IT-1050Final.pdb
+C:\Users\Brady\Desktop\IT-1050Final\IT-1050Final\obj\Debug\IT-1050Final.exe
+C:\Users\Brady\Desktop\IT-1050Final\IT-1050Final\obj\Debug\IT-1050Final.pdb
